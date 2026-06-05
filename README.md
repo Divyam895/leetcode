@@ -40,6 +40,7 @@ leetcode testing
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Divyam895/leetcode-temp/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Divyam895/leetcode-temp/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
