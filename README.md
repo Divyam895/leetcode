@@ -8,6 +8,7 @@ leetcode testing
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyam895/leetcode-temp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Divyam895/leetcode-temp/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Divyam895/leetcode-temp/tree/master/0289-game-of-life) |
 | [0724-find-pivot-index](https://github.com/Divyam895/leetcode-temp/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyam895/leetcode-temp/tree/master/1480-running-sum-of-1d-array) |
@@ -15,6 +16,7 @@ leetcode testing
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Divyam895/leetcode-temp/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +43,7 @@ leetcode testing
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Divyam895/leetcode-temp/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Divyam895/leetcode-temp/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -50,4 +53,16 @@ leetcode testing
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Divyam895/leetcode-temp/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
