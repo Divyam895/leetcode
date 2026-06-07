@@ -7,6 +7,7 @@ leetcode testing
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyam895/leetcode-temp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Divyam895/leetcode-temp/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Divyam895/leetcode-temp/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Divyam895/leetcode-temp/tree/master/0289-game-of-life) |
@@ -15,6 +16,7 @@ leetcode testing
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Divyam895/leetcode-temp/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Divyam895/leetcode-temp/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 ## Sliding Window
@@ -64,5 +66,14 @@ leetcode testing
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Divyam895/leetcode-temp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Divyam895/leetcode-temp/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Divyam895/leetcode-temp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
