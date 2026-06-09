@@ -13,6 +13,7 @@ leetcode testing
 | [0289-game-of-life](https://github.com/Divyam895/leetcode-temp/tree/master/0289-game-of-life) |
 | [0724-find-pivot-index](https://github.com/Divyam895/leetcode-temp/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyam895/leetcode-temp/tree/master/1480-running-sum-of-1d-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Divyam895/leetcode-temp/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ leetcode testing
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyam895/leetcode-temp/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/Divyam895/leetcode-temp/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
