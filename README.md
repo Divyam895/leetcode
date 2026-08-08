@@ -81,4 +81,20 @@ leetcode testing
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/Divyam895/leetcode-temp/tree/master/3689-maximum-total-subarray-value-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
