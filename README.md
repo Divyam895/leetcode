@@ -90,6 +90,7 @@ leetcode testing
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Divyam895/leetcode-temp/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -115,5 +116,6 @@ leetcode testing
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Divyam895/leetcode-temp/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
