@@ -89,6 +89,7 @@ leetcode testing
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyam895/leetcode-temp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
@@ -101,6 +102,7 @@ leetcode testing
 | [0100-same-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
@@ -112,6 +114,7 @@ leetcode testing
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyam895/leetcode-temp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -122,6 +125,7 @@ leetcode testing
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyam895/leetcode-temp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
