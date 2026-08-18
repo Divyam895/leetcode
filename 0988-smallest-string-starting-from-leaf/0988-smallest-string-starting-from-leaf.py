@@ -7,14 +7,12 @@
 class Solution:
     def smallestFromLeaf(self, root: Optional[TreeNode]) -> str:
         mini=None
-        print("hello")
         def trav(par,node):
             nonlocal mini
             if not node:
                 return
             if not node.right and not node.left:
                 par=chr(97+node.val)+par
-                print(par)
                 if mini is None or par<mini:
                     mini=par
                 return
