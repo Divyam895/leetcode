@@ -91,6 +91,7 @@ leetcode testing
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Divyam895/leetcode-temp/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -104,6 +105,7 @@ leetcode testing
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Divyam895/leetcode-temp/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -127,6 +129,7 @@ leetcode testing
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Divyam895/leetcode-temp/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -136,4 +139,12 @@ leetcode testing
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+## String
+|  |
+| ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
+## Backtracking
+|  |
+| ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
