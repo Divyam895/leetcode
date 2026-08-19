@@ -91,6 +91,7 @@ leetcode testing
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+| [0814-binary-tree-pruning](https://github.com/Divyam895/leetcode-temp/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
@@ -105,6 +106,7 @@ leetcode testing
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+| [0814-binary-tree-pruning](https://github.com/Divyam895/leetcode-temp/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
@@ -129,6 +131,7 @@ leetcode testing
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+| [0814-binary-tree-pruning](https://github.com/Divyam895/leetcode-temp/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
