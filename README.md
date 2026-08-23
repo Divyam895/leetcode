@@ -11,6 +11,7 @@ leetcode testing
 | [0219-contains-duplicate-ii](https://github.com/Divyam895/leetcode-temp/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Divyam895/leetcode-temp/tree/master/0289-game-of-life) |
+| [0654-maximum-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/Divyam895/leetcode-temp/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyam895/leetcode-temp/tree/master/1480-running-sum-of-1d-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Divyam895/leetcode-temp/tree/master/3689-maximum-total-subarray-value-i) |
@@ -75,6 +76,7 @@ leetcode testing
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyam895/leetcode-temp/tree/master/0169-majority-element) |
+| [0654-maximum-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0654-maximum-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ leetcode testing
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Divyam895/leetcode-temp/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -139,6 +142,7 @@ leetcode testing
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Divyam895/leetcode-temp/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Divyam895/leetcode-temp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -162,4 +166,16 @@ leetcode testing
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Divyam895/leetcode-temp/tree/master/0508-most-frequent-subtree-sum) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
