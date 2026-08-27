@@ -61,10 +61,12 @@ leetcode testing
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Divyam895/leetcode-temp/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Divyam895/leetcode-temp/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Divyam895/leetcode-temp/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -93,6 +95,7 @@ leetcode testing
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divyam895/leetcode-temp/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/Divyam895/leetcode-temp/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Divyam895/leetcode-temp/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Divyam895/leetcode-temp/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Divyam895/leetcode-temp/tree/master/0508-most-frequent-subtree-sum) |
@@ -146,6 +149,7 @@ leetcode testing
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divyam895/leetcode-temp/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/Divyam895/leetcode-temp/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Divyam895/leetcode-temp/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Divyam895/leetcode-temp/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Divyam895/leetcode-temp/tree/master/0508-most-frequent-subtree-sum) |
