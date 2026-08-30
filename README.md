@@ -112,6 +112,7 @@ leetcode testing
 | [1325-delete-leaves-with-a-given-value](https://github.com/Divyam895/leetcode-temp/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/Divyam895/leetcode-temp/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ leetcode testing
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Divyam895/leetcode-temp/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Divyam895/leetcode-temp/tree/master/1325-delete-leaves-with-a-given-value) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@ leetcode testing
 | [1325-delete-leaves-with-a-given-value](https://github.com/Divyam895/leetcode-temp/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/Divyam895/leetcode-temp/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
