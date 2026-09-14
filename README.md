@@ -95,6 +95,7 @@ leetcode testing
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Divyam895/leetcode-temp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Divyam895/leetcode-temp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divyam895/leetcode-temp/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Divyam895/leetcode-temp/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Divyam895/leetcode-temp/tree/master/0257-binary-tree-paths) |
@@ -119,6 +120,7 @@ leetcode testing
 | [0100-same-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Divyam895/leetcode-temp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divyam895/leetcode-temp/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Divyam895/leetcode-temp/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Divyam895/leetcode-temp/tree/master/0404-sum-of-left-leaves) |
@@ -141,6 +143,7 @@ leetcode testing
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Divyam895/leetcode-temp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Divyam895/leetcode-temp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/Divyam895/leetcode-temp/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divyam895/leetcode-temp/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyam895/leetcode-temp/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -156,6 +159,7 @@ leetcode testing
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Divyam895/leetcode-temp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Divyam895/leetcode-temp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divyam895/leetcode-temp/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Divyam895/leetcode-temp/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Divyam895/leetcode-temp/tree/master/0257-binary-tree-paths) |
@@ -204,4 +208,8 @@ leetcode testing
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Divyam895/leetcode-temp/tree/master/0654-maximum-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Divyam895/leetcode-temp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
